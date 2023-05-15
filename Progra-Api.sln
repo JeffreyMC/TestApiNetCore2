@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Progra-Api", "Progra-Api\Progra-Api.csproj", "{A8CEB168-F908-456F-AF91-8ECB7C71595E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8CEB168-F908-456F-AF91-8ECB7C71595E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8CEB168-F908-456F-AF91-8ECB7C71595E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8CEB168-F908-456F-AF91-8ECB7C71595E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8CEB168-F908-456F-AF91-8ECB7C71595E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2135DEE9-303B-48A4-ABBC-BC04D96FEEB1}
+	EndGlobalSection
+EndGlobal
